@@ -77,7 +77,7 @@ const sampleQuestions = [
       { answer: 'Hydrogen', isCorrect: true },
       { answer: 'Oxygen', isCorrect: false },
       { answer: 'Helium', isCorrect: false },
-      { answer: 'Nitrogen', isCorrect: false },
+      { answer: 'Nitrogen', isCorrect: false },   
     ]
   },
   {
